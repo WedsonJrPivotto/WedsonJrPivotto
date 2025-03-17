@@ -61,7 +61,7 @@ Me chamo Wedson Jr. Pivotto Medrado, tenho 18 anos e sou natural de Redenção P
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=WedsonJrPivotto&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=WedsonJrPivotto&theme=tokyonight&custom_title=Tecnologias&langs_count=7" 
   />
 
 </p>
