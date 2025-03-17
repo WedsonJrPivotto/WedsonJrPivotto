@@ -26,8 +26,8 @@ Me chamo Wedson Jr. Pivotto Medrado, tenho 18 anos e sou natural de Redenção P
 
 <img 
     align="left" 
-    alt="SQL" 
-    title="SQL"
+    alt="FireBird2.5" 
+    title="FireBird2.5"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://dbdb.io/media/logos/firebird.svg" 
@@ -35,8 +35,8 @@ Me chamo Wedson Jr. Pivotto Medrado, tenho 18 anos e sou natural de Redenção P
 
 <img 
     align="left" 
-    alt="SQL" 
-    title="SQL"
+    alt="pandas" 
+    title="pandas"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
