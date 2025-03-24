@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Wedson Junior 
 
-**`Desenvolvedor FreeLancer`**
+**`Desenvolvedor Back-end`**
 
-Me chamo Wedson Jr. Pivotto Medrado, tenho 18 anos e sou natural de Redenção PA. Finalizei meu ensino médio na escola Maria Benta de Sousa localizada ainda em Redenção PA, e sou apaixonado por programação, atualmente não estou cursando nenhum curso, porém, estou estudando para ser um desenvolvedor FullStack!
+Me chamo Wedson Jr. Pivotto Medrado, tenho 18 anos e sou natural de Redenção PA. Finalizei meu ensino médio na escola Maria Benta de Sousa localizada ainda em Redenção PA, e sou apaixonado por programação, atualmente não estou cursando nenhum curso, porém, estou estudando para ser um desenvolvedor Back-end!
 
 ---
 ### 🤖 Linguagens e Tecnologias
